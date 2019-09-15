@@ -42,6 +42,19 @@ i.fa {
   margin-top: 10px;
 }
 
+.progress-bar {
+  float: left;
+  width: 0%;
+  height: 100%;
+  font-size: @font-size-small;
+  line-height: @line-height-computed;
+  color: #34bcaa;
+  text-align: center;
+  background-color: #000;
+  .box-shadow(inset 0 -1px 0 rgba(0,0,0,.15));
+  .transition(width .6s ease);
+}
+
 .tab-content {
   margin-top:40px;
   margin-bottom: 80px;

@@ -1,4 +1,4 @@
-var Bitcore = require('@dashevo/dashcore-lib');
+var Bitcore = require('@devilking6105/dashcore-lib');
 
 var socket;
 var paymentCycle;

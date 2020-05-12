@@ -3,10 +3,10 @@ var Bitcore = require('@dashevo/dashcore-lib');
 var socket;
 var paymentCycle;
 
-var mainnetProvider = 'https://insight.dashevo.org';
+var mainnetProvider = 'https://openchains.info/coin/hth/blocks';
 var mainnetPrefix = '/insight-api';
 
-var testnetProvider = 'https://testnet-insight.dashevo.org';
+var testnetProvider = 'https://insight.dashevo.org';
 var testnetPrefix = '/insight-api';
 
 var init = function(network, provider, prefix) {

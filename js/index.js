@@ -1,4 +1,4 @@
-var Bitcore = require('@altcoin-cash/helpthehomeless-lib');
+var Bitcore = require('https://github.com/MichaeHDesigns/helpthehomeless-lib');
 
 var socket;
 var paymentCycle;

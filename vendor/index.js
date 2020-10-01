@@ -1,4 +1,4 @@
-var Bitcore = require('@devilking6105/dashcore-lib');
+var Bitcore = require('https://github.com/MichaeHDesigns/helpthehomeless-lib');
 
 var socket;
 var paymentCycle;

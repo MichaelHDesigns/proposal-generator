@@ -3,7 +3,7 @@ var Bitcore = require('@altcoin-cash/helpthehomeless-lib');
 var socket;
 var paymentCycle;
 
-var mainnetProvider = 'https://openchains.info/coin/hth/blocks';
+var mainnetProvider = 'https://insight.dashevo.org';
 var mainnetPrefix = '/insight-api';
 
 var testnetProvider = 'https://insight.dashevo.org';
